@@ -76,7 +76,7 @@ Things we may/may not cover
 
 ### What is minimal expectation from student
 
-* Knowledge of any one programming language (knowing Java would be a PLUS) is a must. You don't have to be an expert in that Programming language though. At least you should be able to code. 
+* Knowledge of any one programming language is a must. You don't have to be an expert in that Programming language though. At least you should be able to code. Knowing Java would be a PLUS. 
 * Should have laptop to try out things
 * Should have good internet connection to attend online sessions
 
