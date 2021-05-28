@@ -29,6 +29,7 @@ We are taking this course purely on a voluntary basis. If a student decides to p
 ### Faculty Details
 
 Anupama Sinha - https://www.linkedin.com/in/anupama-sinha-05227854/
+
 Vigneshwaran - https://www.linkedin.com/in/iamvickyav/
 
 ---
