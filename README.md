@@ -6,16 +6,6 @@ To address this gap, we are launching **Student to Software Developer** bridge c
 
 ---
 
-### Why are we doing this
-
-> Youth is the best time. The way in which you utilize this period will decide the nature of coming years that lie ahead of you
-> 
->  -- Swami Vivekanandha 
-
-In order to contribute to Nation Building, we believe it's best to invest our time with Youth of this nation. Hence we are starting this effort with the Student community
-
----
-
 ### Eligibility
 BE/B.Tech students (CSE/IT/ECE) in their 2nd/3rd/4th year in academics, BCA 2nd/3rd year, MCA students
 
@@ -86,6 +76,18 @@ Things we may/may not cover
 * Knowledge of any one programming language (knowing Java would be a PLUS) is a must. You don't have to be an expert in that Programming language though. At least you should be able to code. 
 * Should have laptop to try out things
 * Should have good internet connection to attend online sessions
+
+---
+
+### Why are we doing this
+
+> Youth is the best time. The way in which you utilize this period will decide the nature of coming years that lie ahead of you
+> 
+>  -- Swami Vivekanandha 
+
+Number of enthusiastic people are putting extraordinary efforts to take our country to next level. Now its time to do our part. We believe it's best to invest our time with Youth of this nation. Hence we are starting this effort for the Student community
+
+---
 
 If you are interested, please fill out this form - https://forms.gle/QXVHjZVzkB9diKVB7. 
 
