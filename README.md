@@ -1,6 +1,6 @@
 # Student To Software Developer - Bridge Course
 
-We all know Engineering students especially the ones studying in colleges located in non metros, has serious gap in preparing themselves for industry 
+We all know students especially the ones studying in colleges located in non metros, have serious gap in preparing themselves for industry 
 
 To address this gap, we are launching **Student to Software Developer** bridge course
 
