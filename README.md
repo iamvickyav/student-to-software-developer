@@ -42,7 +42,7 @@ The initial kick off session is planned by May 30, 2021. The session should tent
 ---
 
 ### Seats
-In the past, we tried to accommodate as many students as we could for all of our sessions. Though we got the crowd, the results were not very welcoming. We felt our efforts went in vain. Hence we are planning to limit the number of seats to just 10 for each batch
+In the past, we tried to accommodate as many students as we could for all of our sessions. Though we got the crowd, the results were not very welcoming. We felt our efforts went in vain. Hence we are planning to limit the number of seats to just **10** for each batch
 
 Preference will be given for Students coming from colleges located in Non metro locations
 
