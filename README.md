@@ -60,18 +60,24 @@ Preference will be given for Students coming from colleges located in Non metro 
 
 ### Topics
 
-* HTML/CSS/JS/JQuery basics
+**Front End Development**
+* HTML/CSS/JS
+* JQuery basics
+
+**Backend Development**
+* Developing backend with Spring Boot Framework
 * Database basics
 * HTTP & REST
-* Developing backend with Spring Boot Framework
 * JDBC & JPA
+
+**Others**
 * Git & publishing projects in Github
 
-Not Planned but may be included in future 
+Things we may/may not cover
 
 * React JS
 * CI/CD tools
-* Cloud Deployment
+* Cloud Deployment (Heroku)
 
 ---
 
