@@ -88,7 +88,7 @@ Things we may/may not cover
 > 
 >  -- Swami Vivekanandha 
 
-Number of enthusiastic people are putting extraordinary efforts to take our country to next level. Now its time to do our part. We believe it's best to invest our time with Youth of this nation. Hence we are starting this effort for the Student community
+Number of enthusiastic people take extraordinary efforts to take our country to next level. Now its time to do our part. We believe it's best to invest our time with Youth of this nation. Hence we are starting this effort for the Student community
 
 ---
 
