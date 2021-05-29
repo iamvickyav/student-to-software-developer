@@ -15,7 +15,7 @@ BE/B.Tech students (CSE/IT/ECE) in their 2nd/3rd/4th year in academics, BCA 2nd/
 **Mode** - Live online training preferably in Zoom/Google Meet
 **Total Duration** - 12 hours
 
-Topics will be covered in multiple sessions. Each session may extend for an hour or two. To avoid conflict with our regular job schedule, we will try to keep the sessions mostly on Saturday & Sundays
+Topics will be covered in multiple sessions. Each session may extend for an hour or two. To avoid conflicts with our regular job schedule, we will try to keep the sessions mostly on Saturday & Sundays
 
 ---
 
@@ -47,7 +47,7 @@ The initial kick off session is planned by May 30, 2021. The session should tent
 ### Seats
 In the past, we tried to accommodate as many students as we could for all of our sessions. Though we got the crowd, the results were not very welcoming. We felt our efforts went in vain. Hence we are planning to limit the number of seats to just **10** for each batch
 
-Preference will be given for Students coming from colleges located in Non metro locations
+Preference will be given to Students coming from colleges located in Non metro locations
 
 ---
 
