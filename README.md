@@ -35,7 +35,7 @@ Vigneshwaran - https://www.linkedin.com/in/iamvickyav/
 ---
 
 ### Teaching Language
-Tamil & English
+English (Tamil/Bengali can be done based on the registered students)
 
 ---
 
